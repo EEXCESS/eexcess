@@ -1,4 +1,4 @@
-[logo]: http://eexcess.eu/wp-content/uploads/2013/04/eexcess_Logo_neu1.jpg "EEXCESS"
+![eexcess](http://eexcess.eu/wp-content/uploads/2013/04/eexcess_Logo_neu1.jpg "EEXCESS")
 
 EEXCESS
 =======

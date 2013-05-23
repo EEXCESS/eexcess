@@ -1,6 +1,4 @@
 ![eexcess](http://eexcess.eu/wp-content/uploads/2013/04/eexcess_Logo_neu1.jpg "EEXCESS")
-
-EEXCESS
 =======
 
 This repository is the common repository to the whole EEXCESS project.

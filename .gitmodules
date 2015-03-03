@@ -1,0 +1,3 @@
+[submodule "wordpress-plugin"]
+	path = wordpress-plugin
+	url = https://github.com/EEXCESS/wordpress-plugin

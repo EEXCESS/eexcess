@@ -1,0 +1,18 @@
+[submodule "wordpress-plugin"]
+	path = wordpress-plugin
+	url = https://github.com/EEXCESS/wordpress-plugin
+[submodule "recommender"]
+	path = recommender
+	url = https://github.com/EEXCESS/recommender
+[submodule "privacy-proxy"]
+	path = privacy-proxy
+	url = https://github.com/EEXCESS/privacy-proxy
+[submodule "Twitter"]
+	path = Twitter
+	url = https://github.com/EEXCESS/Twitter
+[submodule "gdocs-plugin"]
+	path = gdocs-plugin
+	url = https://github.com/EEXCESS/gdocs-plugin
+[submodule "chrome-extension"]
+	path = hackathon
+	url = https://github.com/EEXCESS/hackathon

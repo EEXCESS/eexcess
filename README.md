@@ -29,7 +29,9 @@ The EEXCESS source is organised in [Git submodules](http://git-scm.com/book/en/v
 
 1. The [Wordpress Plugin](https://github.com/EEXCESS/wordpress-plugin) for recommending cultural and scholarly content while editing a Wordpress blog. It is foreseen to deploy the Wordpress Plugin Directory.
 
+
 2. The [Google Chrome Extension](http://purl.org/eexcess/components/chrome-extension) for recommending cultural and scholarly content while browsing the web. The Extension is also available through the [Chrome Web Store](https://chrome.google.com/webstore/detail/eexcess/mnicfonfoiffhekefgjlaihcpnbchdbc).
+<!-- TODO: Rename repository, decompose into submodules (especially the visualisations) -->
 
 3. A [Twitter Bot](http://purl.org/eexcess/components/twitter-bot) recommending scholarly content to Twitter users. The bot listens to certain keywords and send recommendations to users. If a user starts following the Twitter Bot, she gets recommendations regularly.
 
@@ -49,7 +51,7 @@ The EEXCESS source is organised in [Git submodules](http://git-scm.com/book/en/v
 
 ## Proof-of-Concept
 
-1. A [Android App](http://purl.org/eexcess/components/android-app) ....
+1. An [Android App](http://purl.org/eexcess/components/android-app) that recommends Europeana results based on your current location.
 
 2. A [Cultural Game with a Purpose (CGWAP)](https://github.com/EEXCESS/cgwap) which allows players to ask and answer cultural questions. Answers have to be given as links and the goal is to be as fast as possible in finding the answer on Europeana.
 <!-- TODO: Needs update of the README.md plus a reference to the ECIR Paper -->

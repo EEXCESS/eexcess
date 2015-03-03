@@ -1,7 +1,7 @@
 ![EEXCESS](http://eexcess.eu/wp-content/uploads/2013/04/eexcess_Logo_neu1.jpg "EEXCESS")
 =======
 
-This is the Github repositoryr of the EU-funded project [EEXCESS](http://eexcess.eu/ "EEXCESS").
+This is the Github repository of the EU-funded project [EEXCESS](http://eexcess.eu/ "EEXCESS").
 
 # Overview
 
@@ -11,7 +11,7 @@ EEXCESS develops open source software for augmenting web channels like web sites
 
 2. Client-side augmentation and visualisation technologies to inject cultural heritage and scholarly content into habitually used user channels. This includes injecting recommendations into HTML 5 pages, into content management systems, into Google Apps for Works and into social networks like Twitter. 
 
-3. Several proof-of-concept that take up additional usage routes for cultural heritage and scholarly content. For example, a [Cultural Heritage Game with a Purpose (CGWAP)](http://cgwap.lisawagner.li/CGWAP/) as well as an Android App.
+3. Several proof-of-concept that take up additional usage routes for cultural heritage and scholarly content. For example, a [Cultural Heritage Game with a Purpose (CGWAP)](http://cgwap.lisawagner.li/CGWAP/) as well as an [Android App for recommending Europeana Content]().
 
 
 The project is currently under development, so not all functionality is realised yet. Below you can find more details on the architecture and furhter information on the source code managment/components. If you have any qeustion, idea or issue, please get in contact with us.
@@ -19,7 +19,7 @@ The project is currently under development, so not all functionality is realised
 
 # Architecture
 
-
+![Architecture of the EEXCESS Framework](https://raw.githubusercontent.com/EEXCESS/eexcess/master/img/EEXCESS%20Architecture%20-Slides.svg)
 
 # Source Code Management
 

@@ -19,7 +19,7 @@ The project is currently under development, so not all functionality is realised
 
 # Architecture
 
-![Architecture of the EEXCESS Framework](https://raw.githubusercontent.com/EEXCESS/eexcess/master/img/EEXCESS%20Architecture%20-Slides.svg)
+![Architecture of the EEXCESS Framework](http://eexcess.github.io/img/EEXCESS-Architecture-2015.svg)
 
 # Source Code Management
 

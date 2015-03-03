@@ -25,6 +25,17 @@ The project is currently under development, so not all functionality is realised
 
 The EEXCESS source is organised in [Git submodules](http://git-scm.com/book/en/v2/Git-Tools-Submodules). So every individual sub-module maintains its own  Git repository and also provides a standalone solution. This EEXCESS main repositories brings all the parts together.
 
+Note that when cloning the repo you need to init and update the submodule once:
+
+    git clone https://github.com/EEXCESS/eexcess.git
+    cd eexcess
+    git submodule init
+    git submodule update
+
+Alternatively you can use '--recursive' as option
+
+    git clone --recursive https://github.com/EEXCESS/eexcess.git
+
 ## Client-side Technologies
 
 1. The [Wordpress Plugin](https://github.com/EEXCESS/wordpress-plugin) for recommending cultural and scholarly content while editing a Wordpress blog. It is foreseen to deploy the Wordpress Plugin Directory.

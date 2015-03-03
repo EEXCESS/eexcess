@@ -39,12 +39,24 @@ The EEXCESS source is organised in [Git submodules](http://git-scm.com/book/en/v
 
 1. The [Federated Recommender](https://github.com/EEXCESS/recommender) queries  distributed partner recommenders and merges their results. Partner recommenders are available for collections of [Europeana](http://www.europeana.eu/portal/), [ZBW](http://www.zbw.eu/de/), [Collections Trust (via Europeana)](http://www.collectionstrust.org.uk/), [Wissenmedia's Brockhaus](http://www.brockhaus.de/) and [KBL-AMBL's KIM Portal](http://kim.sharepointhosting.ch/default.aspx).
 
+<!-- TODO: Needs update of the README.md plus a reference to the ECIR Paper -->
+
+2. The [Privacy Proxy](https://github.com/EEXCESS/privacy-proxy) serves as privacy ensuring filter for request to the federated recommender. The developed protocol ensures that user id and query are separated. Further, queries can be obfuscated to ensure a high degree of privacy while retaining recommender accuracy.
+
+<!-- TODO: Add README.md and explain the basics of the proxy -->
+
+
 
 ## Proof-of-Concept
 
 1. A [Android App](http://purl.org/eexcess/components/android-app) ....
 
 2. A [Cultural Game with a Purpose (CGWAP)](https://github.com/EEXCESS/cgwap) which allows players to ask and answer cultural questions. Answers have to be given as links and the goal is to be as fast as possible in finding the answer on Europeana.
+<!-- TODO: Needs update of the README.md plus a reference to the ECIR Paper -->
+
+## Visualisations and Widgets
+
+1. The [FacetScape](https://github.com/EEXCESS/vis-facetscape) presents a visualisation widget usable for faceted browsing of cultural heritage resources. The visualisation can be used independently of the recommender framework.
 
 
 # Documentation

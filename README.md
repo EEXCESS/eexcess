@@ -76,6 +76,10 @@ Alternatively you can use '--recursive' as option
 
 Detailed descriptions are given in the individual components. The overall documentation is available in the [Wiki of this repository](https://github.com/EEXCESS/eexcess/wiki).
 
+# Data Quality
+
+The Tools for analysing the data quality are in https://github.com/EEXCESS/data-quality.
+
 
 
 

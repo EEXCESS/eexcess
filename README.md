@@ -52,7 +52,7 @@ Alternatively you can use '--recursive' as option
 
 1. The [Federated Recommender](https://github.com/EEXCESS/recommender) queries  distributed partner recommenders and merges their results. Partner recommenders are available for collections of [Europeana](http://www.europeana.eu/portal/), [ZBW](http://www.zbw.eu/de/), [Collections Trust (via Europeana)](http://www.collectionstrust.org.uk/), [Wissenmedia's Brockhaus](http://www.brockhaus.de/) and [KBL-AMBL's KIM Portal](http://kim.sharepointhosting.ch/default.aspx).
 
-<!-- TODO: Needs update of the README.md plus a reference to the ECIR Paper -->
+<!-- TODO: Needs update of the README.md -->
 
 2. The [Privacy Proxy](https://github.com/EEXCESS/privacy-proxy) serves as privacy ensuring filter for request to the federated recommender. The developed protocol ensures that user id and query are separated. Further, queries can be obfuscated to ensure a high degree of privacy while retaining recommender accuracy.
 
@@ -75,6 +75,10 @@ Alternatively you can use '--recursive' as option
 # Documentation
 
 Detailed descriptions are given in the individual components. The overall documentation is available in the [Wiki of this repository](https://github.com/EEXCESS/eexcess/wiki).
+
+# Branching model
+
+All contibutions shoud follow the best practice branching model, as oultined [here](http://nvie.com/posts/a-successful-git-branching-model/)
 
 
 

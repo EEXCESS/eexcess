@@ -59,6 +59,12 @@ Alternatively you can use '--recursive' as option
 <!-- TODO: Add README.md and explain the basics of the proxy -->
 
 
+## Supporting Technologies
+
+1. Tools for [Data Quality Assurance](https://github.com/EEXCESS/data-quality).
+2. Prototype for the [Blog Crawler](https://github.com/n-witt/BlogCrawler)
+3. Prototype for the [Blog Analyzer](https://github.com/n-witt/DataAnalyzer)
+
 
 ## Proof-of-Concept
 
@@ -76,9 +82,15 @@ Alternatively you can use '--recursive' as option
 
 Detailed descriptions are given in the individual components. The overall documentation is available in the [Wiki of this repository](https://github.com/EEXCESS/eexcess/wiki).
 
+
 # Branching model
 
 All contibutions shoud follow the best practice branching model, as oultined [here](http://nvie.com/posts/a-successful-git-branching-model/)
+
+# Data Quality
+
+
+
 
 
 

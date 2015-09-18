@@ -22,12 +22,14 @@ The project is currently under development, so not all functionality is realised
 
 Currently the following data sources are intergrated into the Federated Recommender:
 
-- [Europeana] (http://www.europeana.eu/portal/), ca. 44 millionen cultural heritage objects
-- [ZBW's Econbiz] (https://www.econbiz.de/), ca. 10 millionen publications in the field of Economics
-- [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite),  
-- [Mendeley](http://mendeley.com/), ca. 85 millionen publications
-- [Brockhaus Wissensserver](https://vi.brockhaus.de/)
-- [German National Library](http://www.dnb.de/EN/Home/home_node.html), ca. 17.7 million publications
+|Partner System|Objects|
+|--------------|-------|
+| [Europeana] (http://www.europeana.eu/portal/) | ca. 44 millionen cultural heritage objects|
+| [ZBW's Econbiz] (https://www.econbiz.de/)| ca. 10 millionen publications in the field of Economics|
+| [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite)| 
+| [Mendeley](http://mendeley.com/)| ca. 85 millionen publications|
+| [Brockhaus Wissensserver](https://vi.brockhaus.de/)||
+| [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
 
 
 

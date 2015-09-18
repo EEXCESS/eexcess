@@ -5,16 +5,32 @@ This is the Github repository of the EU-funded project [EEXCESS](http://eexcess.
 
 # Overview
 
-EEXCESS develops open source software for augmenting web channels like web sites or social networks with cultural heritage and scholarly content. It consists of several sub-projects that combine into a privacy-preserving, personalized recommendataion service for cultural heritage and scholalry content. It consists of the following components:
+EEXCESS develops open source software for augmenting web channels like web sites or social networks with cultural heritage and scholarly content. It consists of several sub-projects that combine into a privacy-preserving, personalized recommendation service for cultural heritage and scholarly content. It consists of the following components:
 
-1. A [federated recommender system](https://github.com/EEXCESS/recommender), that recommends resources from distributed cultural heritage and scholarly data providers. Recommendations are personalized on the one hand, but also privacy-preserving on the other hand. Besides the federated recommendataion, we also provide tools for data mapping based on Semantic Web standards and for privacy-perservation (see the [Privacy Proxy](https://github.com/EEXCESS/privacy-proxy)).
+1. A [federated recommender system](https://github.com/EEXCESS/recommender), that recommends resources from distributed cultural heritage and scholarly data providers. Recommendations are personalized while at the same time retaining the user's privacy.  Besides the federated recommendation, we also provide tools for data mapping based on Semantic Web standards and for privacy-perservation (see the [Privacy Proxy](https://github.com/EEXCESS/privacy-proxy)).
 
-2. Client-side augmentation and visualisation technologies to inject cultural heritage and scholarly content into habitually used user channels. This includes injecting recommendations into [HTML pages via a Chrome Extension](http://purl.org/eexcess/components/chrome-extension), into content management systems like [Wordpress](http://purl.org/eexcess/components/wordpress-plugin), into [Google Apps for Works](http://purl.org/eexcess/components/googledocs-plugin) and into social networks like [Twitter](http://purl.org/eexcess/components/twitter-bot).
+2. A [Partner Wizard](https://github.com/EEXCESS/PartnerWizard) which allows to integrate new partner systems using a simple web-form. A partner system is a content provider which is used by the federated recommender to generate recommendations. So without coding you can integrate most search APIs. 
 
-3. Several proof-of-concept that take up additional usage routes for cultural heritage and scholarly content. For example, a [Cultural Heritage Game with a Purpose (CGWAP)](http://cgwap.lisawagner.li/CGWAP/) as well as an [Android App for recommending Europeana Content]().
+3. Client-side augmentation and visualisation technologies to inject cultural heritage and scholarly content into habitually used user channels. This includes injecting recommendations into [HTML pages via a Chrome Extension](http://purl.org/eexcess/components/chrome-extension), into content management systems like [Wordpress](http://purl.org/eexcess/components/wordpress-plugin), into [Google Apps for Works](http://purl.org/eexcess/components/googledocs-plugin), into [Learn Management Systems like Moodle]() and into social networks like [Twitter](http://purl.org/eexcess/components/twitter-bot).
 
+4. Several proof-of-concepts that take up additional usage routes for cultural heritage and scholarly content. For example, a [Cultural Heritage Game with a Purpose (CGWAP)](http://cgwap.lisawagner.li/CGWAP/), an [Android App for recommending Europeana Content](https://github.com/EEXCESS/android-app) and an [Angular JS based pargraph injection called Jarvis](https://github.com/EEXCESS/jarvis).
 
 The project is currently under development, so not all functionality is realised yet. Below you can find more details on the architecture and furhter information on the source code managment/components. If you have any qeustion, idea or issue, please get in contact with us.
+
+
+# Data Sources
+
+Currently the following data sources are intergrated into the Federated Recommender:
+
+- [Europeana] (http://www.europeana.eu/portal/), ca. 44 millionen cultural heritage objects
+- [ZBW's Econbiz] (https://www.econbiz.de/), ca. 10 millionen publications in the field of Economics
+- [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite),  
+- [Mendeley](http://mendeley.com/), ca. 85 millionen publications
+- [Brockhaus Wissensserver](https://vi.brockhaus.de/)
+- [German National Library](http://www.dnb.de/EN/Home/home_node.html), ca. 17.7 million publications
+
+
+
 
 
 # Architecture

@@ -30,7 +30,7 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [Mendeley](http://mendeley.com/)| ca. 85 millionen publications|
 | [Brockhaus Wissensserver](https://vi.brockhaus.de/)||
 | [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
-| [Kierling]()||
+| [Kierling]()|2 million images|
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
 
 

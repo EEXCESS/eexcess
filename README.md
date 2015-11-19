@@ -34,7 +34,19 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
 
 
+The integration of the following partner system is currently in progress
 
+|Partner System|Objects|
+|--------------|-------|
+|[Bielefeld Academic Search](http://www.base-search.net/)|80 Million Objects|
+|[Core - COnnecting REpositories](http://core.ac.uk/) | Several Million Objects|
+|[Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)||
+|[Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)||
+|[Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/
+)|around 1 Million images|
+|[Styrian Archive](http://www.landesarchiv.steiermark.at/)|a few Million Objects|
+|[Digital Public Library of America](http://dp.la/)|  millions (>10 Million) of photographs, manuscripts, books, sounds, moving images, and more from libraries, archives, and museums around the United States.|
+|[Canadian Discovery Portal](http://search.canadiana.ca/)|60 million pages|
 
 
 # Architecture

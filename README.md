@@ -32,6 +32,7 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
 | [Kierling]()|2 million images|
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
+| [Wikipedia for Schools](http://schools-wikipedia.org/)|6000 pages for children|
 
 
 The integration of the following partner system is currently in progress

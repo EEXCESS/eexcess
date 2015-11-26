@@ -33,6 +33,7 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [Kierling]()| 5.600 images|
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
 | [Wikipedia for Schools](http://schools-wikipedia.org/)|6000 pages for children|
+|[Core - COnnecting REpositories](http://core.ac.uk/) | more than 25 Million Objects|
 
 
 The integration of the following partner system is currently in progress
@@ -40,7 +41,6 @@ The integration of the following partner system is currently in progress
 |Partner System|Objects|
 |--------------|-------|
 |[Bielefeld Academic Search](http://www.base-search.net/)|80 Million Objects|
-|[Core - COnnecting REpositories](http://core.ac.uk/) | more than 25 Million Objects|
 |[Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)| 150.000 Objects|
 |[Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
 |[Styrian Archive](http://www.landesarchiv.steiermark.at/)| about 150.000 Objects |

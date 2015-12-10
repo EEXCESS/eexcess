@@ -29,22 +29,22 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite)| 
 | [Mendeley](http://mendeley.com/)| ca. 85 millionen publications|
 | [Brockhaus Wissensserver](https://vi.brockhaus.de/)||
-| [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
 | [Kierling]()| 5.600 images|
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
 | [Wikipedia for Schools](http://schools-wikipedia.org/)|6000 pages for children|
-|[Core - COnnecting REpositories](http://core.ac.uk/) | more than 25 Million Objects|
+| [Core - COnnecting REpositories](http://core.ac.uk/) | more than 25 Million Objects|
 
 
 The integration of the following partner system is currently in progress
 
 |Partner System|Objects|
 |--------------|-------|
-|[Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)| 150.000 Objects|
-|[Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
-|[Styrian Archive](http://www.landesarchiv.steiermark.at/)| about 150.000 Objects |
-|[Digital Public Library of America](http://dp.la/)|  millions (>10 Million) of photographs, manuscripts, books, sounds, moving images, and more from libraries, archives, and museums around the United States.|
-|[Canadian Discovery Portal](http://search.canadiana.ca/)|60 million pages|
+| [Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)| 150.000 Objects|
+| [Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
+| [Styrian Archive](http://www.landesarchiv.steiermark.at/)| about 150.000 Objects |
+| [Digital Public Library of America](http://dp.la/)|  millions (>10 Million) of photographs, manuscripts, books, sounds, moving images, and more from libraries, archives, and museums around the United States.|
+| [Canadian Discovery Portal](http://search.canadiana.ca/)|60 million pages|
+| [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
 
 
 # Architecture

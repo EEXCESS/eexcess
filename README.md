@@ -40,7 +40,6 @@ The integration of the following partner system is currently in progress
 
 |Partner System|Objects|
 |--------------|-------|
-|[Bielefeld Academic Search](http://www.base-search.net/)|80 Million Objects|
 |[Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)| 150.000 Objects|
 |[Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
 |[Styrian Archive](http://www.landesarchiv.steiermark.at/)| about 150.000 Objects |

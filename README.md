@@ -26,7 +26,7 @@ Currently the following data sources are intergrated into the Federated Recommen
 |--------------|-------|
 | [Europeana] (http://www.europeana.eu/portal/) | ca. 44 millionen cultural heritage objects|
 | [ZBW's Econbiz] (https://www.econbiz.de/)| ca. 10 millionen publications in the field of Economics|
-| [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite)| more than 35.000 objects|
+| [KIM - Museums in Baselland, Switzerland](https://www.kgportal.bl.ch/startseite)| more than 35.000 objects from 16 museums|
 | [Mendeley](http://mendeley.com/)| ca. 85 millionen publications|
 | [Brockhaus Wissensserver](https://vi.brockhaus.de/)||
 | [Kierling]()| 5.600 images|

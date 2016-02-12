@@ -33,6 +33,7 @@ Currently the following data sources are intergrated into the Federated Recommen
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api)|1 million objects|
 | [Wikipedia for Schools](http://schools-wikipedia.org/)|6000 pages for children|
 | [Core - COnnecting REpositories](http://core.ac.uk/) | more than 25 Million Objects|
+| [Digital Public Library of America](http://dp.la/)|  millions (>10 Million) of photographs, manuscripts, books, sounds, moving images, and more from libraries, archives, and museums around the United States.|
 
 
 The integration of the following partner system is currently in progress
@@ -40,9 +41,8 @@ The integration of the following partner system is currently in progress
 |Partner System|Objects|
 |--------------|-------|
 | [Carinthia Archive](http://www.landesarchiv.ktn.gv.at/214172_DE)| 150.000 Objects|
-| [Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
 | [Styrian Archive](http://www.landesarchiv.steiermark.at/)| about 150.000 Objects |
-| [Digital Public Library of America](http://dp.la/)|  millions (>10 Million) of photographs, manuscripts, books, sounds, moving images, and more from libraries, archives, and museums around the United States.|
+| [Flickr Bookarchive Images](https://www.flickr.com/photos/internetarchivebookimages/)|around 1 Million images|
 | [Canadian Discovery Portal](http://search.canadiana.ca/)|60 million pages|
 | [German National Library](http://www.dnb.de/EN/Home/home_node.html)| ca. 17.7 million publications|
 
